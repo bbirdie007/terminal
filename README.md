@@ -1,0 +1,2 @@
+# terminal
+Hello. Here is a terminal that is currently ultra-basic but will be extended in the near future. Just take the disk.img file of the correct version from the Releases page, Rufus it on to a thumb drive or use Ventoy, a boot menu for USBs, and add the img to the partition named Ventoy, not VTOYEFI.
